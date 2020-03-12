@@ -17,6 +17,7 @@ not released
    `default_event_duration` and `default_dayevent_duration` for an day-long 
    event
 * NEW Add `{uid}` property to template options in `--format`
+* DROPPED support for Python 3.4
 
 0.10.1
 ======
